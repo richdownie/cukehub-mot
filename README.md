@@ -1,7 +1,7 @@
 ### Manual Testers
 
 1. Sign Up at [CukeHub](https://cukehub.com/users/sign_up) and select ```Manual Tester``` as the Amigo Role.
-2. Email ```rich@cukehub.com``` with an invite request to the Ministry of Test CukeHub App.
+2. Email ```rich@cukehub.com``` with an invite request to the [Ministry of Testing](https://cukehub.com/apps/85) CukeHub App.
 3. Visit Ministry of Testing [TestBuilds](https://cukehub.com/apps/85/builds) and begin manual testing.
 
 ### Automated Testers
@@ -17,7 +17,7 @@
 9. ```thor list```
 10. ```thor chrome```
 11. ```cucumber features```
-12. Vist the CukeHub App [Ministry of Test](https://cukehub.com/apps/85) to view results.
+12. Vist the CukeHub App [Ministry of Testing](https://cukehub.com/apps/85) to view results.
 
 ### Install Ruby
 * How to Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/windows/) on Windows 
