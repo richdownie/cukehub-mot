@@ -1,13 +1,13 @@
 ### Manual Testers
 
 1. Sign Up at [CukeHub](https://cukehub.com/users/sign_up) and select ```Manual Tester``` as the Amigo Role.
-2. Email ```rich@cukehub.com``` with an invite request to the Ministry of Test CukeHub App.
+2. Email ```rich@cukehub.com``` requesting an invite to the Ministry of Test CukeHub App.
 3. Visit Ministry of Testing [TestBuilds](https://cukehub.com/apps/85/builds) and begin manual testing.
 
 ### Automated Testers
 
 1. Sign Up at [CukeHub](https://cukehub.com/users/sign_up) and select ```Automated Tester``` as the Amigo Role.
-2. Email ```rich@cukehub.com`` with an invite request to the Ministry of Test CukeHub App.
+2. Email ```rich@cukehub.com``` requesting an invite to the Ministry of Test CukeHub App.
 3. Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/) unless ```ruby -v ``` exists.
 4. Install [Chrome](https://www.google.com/chrome/browser/desktop/index.html) browser.
 5. ```git@github.com:richdownie/cukehub-mot.git``` How to [clone](https://help.github.com/articles/cloning-a-repository/) a git repository.
