@@ -40,4 +40,4 @@
 5. ```git add .```
 6. ```git commit -m '<add message>'```
 7. ```git push origin <branch-name>```
-8. Visit [github](https://github.com/richdownie/cukehub-mot) and use UI to Create Merge Request
+8. Visit [github](https://github.com/richdownie/cukehub-mot) and use the UI to Create Merge Request
