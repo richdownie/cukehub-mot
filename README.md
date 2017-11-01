@@ -1,7 +1,7 @@
 ### Manual Testers
 
 1. Sign Up at [CukeHub](https://cukehub.com/users/sign_up) and select ```Manual Tester``` as the Amigo Role.
-2. Email ```rich@cukehub.com``` requesting an invite to the Ministry of Test CukeHub App.
+2. Email ```rich@cukehub.com``` requesting an invite to the [Ministry of Testing](https://cukehub.com/apps/85) CukeHub App.
 3. Visit Ministry of Testing [TestBuilds](https://cukehub.com/apps/85/builds) and begin manual testing.
 
 ### Automated Testers
